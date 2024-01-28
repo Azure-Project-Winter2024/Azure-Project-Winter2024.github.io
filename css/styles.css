@@ -33,6 +33,9 @@ html {
 	font-size: 3em;
 }
 
+.content i {
+	font-size: 3em;
+}
 /* Custom Styles */
 
 body {
@@ -64,6 +67,10 @@ main > .tagline {
 
 .icons-social i {
 	padding: 10px;
+}
+
+.content i {
+	padding: 100px;
 }
 
 .devto {
